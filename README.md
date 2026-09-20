@@ -1,5 +1,31 @@
-## Hi there 👋
+# romanovsh
 
+I build things, mostly around Rust, Linux, terminals, and developer tools.
+
+Currently working on:
+
+* `termkit` — small terminal utilities written in Rust
+* `ironclad-ac` — a rust anti-cheat
+
+I like simple software that are terminal based, clean, and useful.
+
+### interests
+
+```text
+rust        linux
+terminals   developer tools
+cli / tui   systems
+open source programming
+```
+
+### currently learning
+
+* Rust
+* systems programming
+* terminal UI development
+* open-source development
+
+More projects will appear here as I build them.
 <!--
 **romanovsh/romanovsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
